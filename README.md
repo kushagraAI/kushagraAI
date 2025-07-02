@@ -2,7 +2,7 @@
 
 
 
-I am [Kushagra](https://kushagra.aisoot.com/), a Data Analysts from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 1+ years of Hands on experience. 🎯
+I am [Kushagra](https://kushagra.aisoot.com/), a Data Analyst from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 1+ years of Hands on experience. 🎯
 
 I mostly work with PowerBI, Microsoft Excel, Python, Relational Databases(SQL Server, PostgreSQL, MySQL) and Cloud based technologies. 🚀
 
