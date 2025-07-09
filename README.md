@@ -2,7 +2,7 @@
 
 
 
-I am [Kushagra](https://kushagra.aisoot.com/), a Data Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 1+ years of Hands on experience. 🎯
+I am Kushagra, a Data Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 1+ years of Hands on experience. 🎯
 
 I mostly work with Databricks,Pyspark, Microsoft Excel, Python, Relational Databases(SQL Server, PostgreSQL, MySQL) and Cloud based technologies. 🚀
 
