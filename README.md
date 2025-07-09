@@ -2,9 +2,9 @@
 
 
 
-I am [Kushagra](https://kushagra.aisoot.com/), a Data Analyst from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 1+ years of Hands on experience. 🎯
+I am [Kushagra](https://kushagra.aisoot.com/), a Data Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 1+ years of Hands on experience. 🎯
 
-I mostly work with PowerBI, Microsoft Excel, Python, Relational Databases(SQL Server, PostgreSQL, MySQL) and Cloud based technologies. 🚀
+I mostly work with Databricks,Pyspark, Microsoft Excel, Python, Relational Databases(SQL Server, PostgreSQL, MySQL) and Cloud based technologies. 🚀
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=1334F7&background=E4FF5300&multiline=true&width=435&lines=Welcome+to+GitHub%2C+where+code+meets;collaboration+and+innovation+thrives!%F0%9F%9A%80)](https://git.io/typing-svg)
 
